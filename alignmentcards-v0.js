@@ -53,7 +53,7 @@
       "failureModes": { 
         "human": "Damange to team chemistry and dynamics, leading to losses despite having talented individuals. Also, resentment and lack of trust among teammates.", 
         "organizational": "Scandals in professional sports where players prioritize personal achievements over team success, leading to conflicts and underperformance.", 
-        "professional": "Coaching decisions based on individual stats result in predictable strategies, weak defensive coordination, and lack of team resilience.",
+        "professional": "Coaching decisions based on individual stats result in predictable strategies, weak defensive coordination, and lack of team-first culture.",
         "machine": "Feature selection bias, machines or AI could be selecting based off quantifiable metrics that don't capture the full picture of what is needed for success."
       }
     }
