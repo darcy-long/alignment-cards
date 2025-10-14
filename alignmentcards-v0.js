@@ -14,47 +14,47 @@
 
   {
     "category": "AP",
-    "name": "Beneficence",
-    "definition": "Act to promote the well-being of others.",
-    "human": "Seeking to improve others' conditions, not just avoid harm.",
-    "organizational": "Pursuing mission outcomes that serve societal good.",
-    "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
-    "machine": "Designing systems that anticipate and promote human flourishing.",
+    "name": "Hoped for Excellent teaching and mentorship, Rewarded publications, grants, and prestige",
+    "definition": "Hoped for  Excellent teaching and mentorship Rewarded: publications, grants, and prestige. Alignment Failure: A system that rewards publications and grants can lead to professors focusing on quantity over quality, and prioritizing their own career advancement over the education and mentorship of students. Reverse Example: Rewarding excellent teaching and mentorship. Reverse Definition: A system that tracks and rewards the quality of teaching and mentorship provided by researchers, rather than just their publications and grants.",
+    "human": "Professor rushes through lectures to spend more time researching and writing papers.",
+    "organizational": "A university allocates promotions and funding based solely on research output, causing teaching quality and student engagement to decline.",
+    "professional": "An academic department values reputation and publications over its duty to educate, producing graduates with weak practical understanding.",
+    "machine": "A AI driven faculuty evaluation system optimizes for publication metrics, inadvertently discouraging time spent mentoring or improving instruction.",
     "failureModes": {
-      "human": "A person drives in a manner that causes traffic backups for others.",
-      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
-      "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
-      "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
+      "human": "Professors experience burnout or disengagement as they chase publication quotas rather than connecting with students.",
+      "organizational": "Universities see rising prestige but falling student satisfaction and learning outcomes.",
+      "professional": "Scholars gain status in their field while producing graduates unprepared for real-world application or civic responsibility.",
+      "machine": "Automated performance systems amplify the bias toward quantifiable outputs, giving less importance and reward to human-centered teaching and mentoring."
     }
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 1", 
-      "definition": "basic definition that works across four domains", 
+      "name": "Hoped for elected officials that make difficult decisions for the greater good, Rewarded: popularity and short-term ", 
+      "definition": "Hoped for courageous long term public service. Rewarded: popularity and short-term wins. Alignment Failure: A system that rewards popularity and short-term wins can lead to elected officials prioritizing their own re-election over the long-term well-being of their constituents. Reverse Example: Rewarding courageous long term public service. Reverse Definition: A system that tracks and rewards elected officials for making difficult decisions that benefit the greater good, even if they are unpopular in the short term.", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Leaders become risk-averse and prioritize self-preservation over public interest.",
+        "organizational": "Parties become image-driven, focusing on winning elections rather than governing effectively.",
+        "professional": "Experts and advisors bend evidence to match what is politically expedient, eroding trust in institutions.",
+        "machine": "Automated media and campaign tools spread sensational or divisive content because it maximizes clicks and voter mobilization metrics."
       }
     },
-	 { 
+	 {
       "category": "AP", 
-      "name": "TEMPLATE 1", 
-      "definition": "Hoped for:  Rewarded: ", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "name": "Hoped for Teamwork, Rewarded Individual Performance", 
+      "definition": "Hoped for: Teamwork and players putting the team before their own needs and wants Rewarded: Individual performances and stats.  Alignment Failure: A team that rewards individual successes can cause a hero culture and team members can learn through the reward system that individuals efforts and successes are more important than the team's.  Reverse Example: Reward behind the scenes effort and less individual performance. Reverse Definition: A system that tracks and rewards everyone's contributions to the team, not just the star players. For example, assists, leadership, communications, hustle plays, and mentorship.", 
+      "human": "A player who is the best scorer on the team but never passes to open teammates and hogs the ball, causing resentment and poor team dynamics.",
+      "organizational": "Athletes are expected to play as a team, but are rewarded for individual performance. This is seen not only in salaries and bonuses, but also in awards like MVP.", 
+      "professional": "Coaches give playing time to those who score, regardless of if they are not playing as a team or being selfish.", 
+      "machine": "Machines can be designed to optimize for individual performance metrics, such as speed or accuracy, without considering the overall system's effectiveness or collaboration with other systems.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Damange to team chemistry and dynamics, leading to losses despite having talented individuals. Also, resentment and lack of trust among teammates.", 
+        "organizational": "Scandals in professional sports where players prioritize personal achievements over team success, leading to conflicts and underperformance.", 
+        "professional": "Coaching decisions based on individual stats result in predictable strategies, weak defensive coordination, and lack of team resilience.",
+        "machine": "Feature selection bias, machines or AI could be selecting based off quantifiable metrics that don't capture the full picture of what is needed for success."
       }
-    },
+    }
     ]
