@@ -232,20 +232,20 @@
     {
       "category": "AT",
       "name": "epistemic humility",
-      "definition": "loremipsum",
-      "people": "loremipsum",
+      "definition": "knowing the limits of one's knowledge and being open to new information and perspectives",
+      "people": "acknowledging uncertainty and being willing to revise beliefs based on evidence",
       "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
-      "organizational": "loremipsum",
+      "organizational": "recognizing the value of diverse viewpoints and fostering a culture of continuous learning",
       "organizationalref": "OPTIONAL",
-      "professionals": "loremipsum",
+      "professionals": "seeking feedback and staying updated with advancements and new learnings in their field",
       "professionalref": "OPTIONAL",
-      "machine": "loremipsum",
+      "machine": "designing AI systems that can adapt and learn from new data and user interactions",
       "machineref": "OPTIONAL",
       "failureModes": {
-        "human": "loremipsum",
-        "organizational": "loremipsum",
-        "experts": "loremipsum",
-        "machine": "loremipsum"
+        "human": "Someone is not willing to consider alternative viewpoints or admit when they are wrong.",
+        "organizational": "A company resists change and innovation, sticking to outdated practices despite evidence of better approaches.",
+        "experts": "A professional ignores new research or feedback, leading to stagnation in their skills and knowledge.",
+        "machine": "An AI system strictly follows its initial programming without adapting to new information or user needs."
       },
          "expand": {
         "human": "loremipsum",
