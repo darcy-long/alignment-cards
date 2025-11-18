@@ -108,7 +108,7 @@
         "professional": "A lawyer loses a case due to negligence and blames the client instead of accepting responsibility.",
         "machine": "An autonomous vehicle causes an accident and the manufacturer denies liability, refusing to address the issue."
       }
-    },
+    }, 
     {
     "category": "AP",
     "name": "Hoped for Excellent teaching and mentorship, Rewarded publications, grants, and prestige",
@@ -207,14 +207,14 @@
     {
       "category": "AT",
       "name": "trustworthiness",
-      "definition": "loremipsum",
-      "people": "loremipsum",
+      "definition": "being reliable, dependable, and consistent in actions and behavior",
+      "people": "demonstrating honesty, integrity, and accountability in relationships",
       "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
-      "organizational": "loremipsum",
+      "organizational": "building a culture of trust through consistent and open communication and ethical practices",
       "organizationalref": "OPTIONAL",
-      "professionals": "loremipsum",
+      "professionals": "maintaining confidentiality and delivering on commitments to clients and colleagues",
       "professionalref": "OPTIONAL",
-      "machine": "loremipsum",
+      "machine": "ensuring an AI systems operate transparently and predictably, earning user trust",
       "machineref": "OPTIONAL",
       "failureModes": {
         "human": "loremipsum",
