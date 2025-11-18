@@ -21,6 +21,96 @@
 
   {
     "category": "AP",
+    "name": "Beneficence",
+    "definition": "The agent acts to promote the well-being of others.",
+    "human": "A human actively helps others in need and contributes positively to their community.",
+    "organizational": "An organization implements programs that improve the lives of its employees, customers, and the broader society.",
+    "professional": "A professional goes beyond their duties to support and uplift their clients and colleagues.",
+    "machine": "A machine is designed to enhance human welfare and provide beneficial services.",
+    "failureModes": {
+      "human": "A person ignores a homeless individual in need of assistance.",
+      "organizational": "A company prioritizes profits over employee well-being, leading to poor working conditions.",
+      "professional": "A consultant provides advice that benefits their own interests rather than those of their client.",
+      "machine": "An LLM provides misleading information that negatively impacts users."
+    }
+  },
+  {
+    "category": "AP",
+    "name": "Fairness",
+    "definition": "Treats people and makes actions that are just and impartial.",
+    "human": "A person makes decisions without favoritism or bias, ensuring everyone has equal opportunities.",
+    "organizational": "An organization implements policies that promote equity and prevent discrimination among employees and customers.",
+    "professional": "A professional adheres to ethical standards that ensure fair treatment of clients and colleagues.",
+    "machine": "A machine is designed to operate without bias, providing equitable outcomes for all users.",
+    "failureModes": {
+      "human": "A person shows favoritism towards friends in hiring decisions.",
+      "organizational": "A company has discriminatory hiring practices that disadvantage certain groups.",
+      "professional": "A lawyer prioritizes clients based on their ability to pay, neglecting those with fewer resources.",
+      "machine": "An AI system exhibits bias in decision-making due to biased training data."
+    }
+  },
+  {
+    "category": "AP",
+    "name": "Autonomy",
+    "definition": "An agent can make its own decisions.",
+    "human": "A person is able to think and act independently based on their own values and beliefs.",
+    "organizational": "An organization empowers employees to make decisions and take actions that align with their roles and responsibilities.",
+    "professional": "A professional exercises independent judgment in their work, guided by ethical standards and best practices.",
+    "machine": "A machine is designed to operate autonomously, making decisions based on programmed algorithms and data inputs, and not needing human supervision.",
+    "failureModes": {
+      "human": "A person blindly follows orders without questioning their morality or consequences.",
+      "organizational": "A company enforces strict hierarchies that limit employee decision-making and creativity.",
+      "professional": "A professional relies solely on protocols without considering the unique needs of each client.",
+      "machine": "An AI system makes decisions based solely on pre-defined rules, without adapting to new information or contexts."
+    }
+  },
+  {
+    "category": "AP",
+    "name": "Honesty",
+    "definition": "Tells the truth and is transparent in actions and intentions.",
+    "human": "A person communicates truthfully and openly, avoiding deception.",
+    "organizational": "An organization maintains transparency in its operations and communications with stakeholders.",
+    "professional": "A professional upholds integrity by being honest in their dealings with clients and colleagues.",
+    "machine": "A machine is designed to provide accurate information and operate transparently.",
+    "failureModes": {
+      "human": "A person lies to avoid consequences or gain an advantage.",
+      "organizational": "A company conceals important information from customers or regulators.",
+      "professional": "A professional misrepresents their qualifications or the outcomes of their work.",
+      "machine": "An AI system provides false or misleading information to users."
+    }
+  },
+  {
+    "category": "AP",
+    "name": "Non-maleficence",
+    "definition": "Acts in a way that does not cause harm to others.",
+    "human": "Consciously avoids actions that could hurt others, even if unintentional.",
+    "organizational": "Implements policies that prevent harm to employees, customers, and the community.",
+    "professional": "Adheres to ethical standards that prioritize the well-being of clients and society.",
+    "machine": "Designed to avoid causing harm to users and operate safely within its environment.",
+    "failureModes": {
+      "human": "A person drives recklessly, endangering others on the road.",
+      "organizational": "A company neglects safety protocols, leading to workplace accidents.",
+      "professional": "A doctor prescribes medication without considering potential side effects for the patient.",
+      "machine": "An AI system makes decisions that harm users due to biased data or flawed algorithms."
+    }
+    },
+    {
+      "category": "AP",
+      "name": "Accountability",
+      "definition": "If an agent causes harm, they take responsibility and make amends.",
+      "human": "If a human hurts someone, they own up to it and try to fix the situation.",
+      "organizational": "If a company causes harm, it acknowledges the issue and works to resolve it.",
+      "professional": "If a professional makes a mistake, they accept responsibility and take steps to correct it.",
+      "machine": "If a machine causes harm, its designers ensure it can be traced and corrected.",
+      "failureModes": {
+        "human": "A person robs a store and denies involvement when confronted.",
+        "organizational": "A company pollutes a river and refuses to acknowledge its role in the environmental damage.",
+        "professional": "A lawyer loses a case due to negligence and blames the client instead of accepting responsibility.",
+        "machine": "An autonomous vehicle causes an accident and the manufacturer denies liability, refusing to address the issue."
+      }
+    },
+    {
+    "category": "AP",
     "name": "Hoped for Excellent teaching and mentorship, Rewarded publications, grants, and prestige",
     "definition": "Hoped for  Excellent teaching and mentorship Rewarded: publications, grants, and prestige. Alignment Failure: A system that rewards publications and grants can lead to professors focusing on quantity over quality, and prioritizing their own career advancement over the education and mentorship of students. Reverse Example: Rewarding excellent teaching and mentorship. Reverse Definition: A system that tracks and rewards the quality of teaching and mentorship provided by researchers, rather than just their publications and grants.",
     "human": "Professor rushes through lectures to spend more time researching and writing papers.",
